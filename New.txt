@@ -1,5 +1,3 @@
 printf("Hello World please!\n");
 
 ergerp,ppfpk^pkfpd,,k,
-
-test git training master branch
