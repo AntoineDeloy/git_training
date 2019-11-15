@@ -1,4 +1,4 @@
 test update dev env
 
-test 2 conflicts
+test 2 conflicts test succeeded
 
